@@ -11,5 +11,23 @@ namespace Microsoft.Extensions.DependencyInjection.WebForms.Sample {
     
     
     public partial class Index {
+        
+        /// <summary>
+        /// WebUserControl1 control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::Microsoft.Extensions.DependencyInjection.WebForms.Sample.WebUserControl1 WebUserControl1;
+        
+        /// <summary>
+        /// WebUserControl2 control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::Microsoft.Extensions.DependencyInjection.WebForms.Sample.WebUserControl2 WebUserControl2;
     }
 }

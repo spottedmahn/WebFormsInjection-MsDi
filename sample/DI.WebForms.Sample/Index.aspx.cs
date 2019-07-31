@@ -11,5 +11,15 @@ namespace Microsoft.Extensions.DependencyInjection.WebForms.Sample
         {
             Dependency = dependency;
         }
+
+        public void MyTestEventHandler(object sender, EventArgs e)
+        {
+
+        }
+
+        public void MyTestEventHandler2(object sender, EventArgs e)
+        {
+
+        }
     }
 }

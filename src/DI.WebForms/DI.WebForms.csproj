@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Project Sdk="Microsoft.NET.Sdk">
   <PropertyGroup>
-    <TargetFramework>net472</TargetFramework>
+    <TargetFramework>net48</TargetFramework>
     <DebugType>pdbonly</DebugType>
     <DebugSymbols>True</DebugSymbols>
 	<AssemblyName>Microsoft.Extensions.DependencyInjection.WebForms</AssemblyName>
